@@ -8,6 +8,8 @@ class student
 		public:
 			void getdata()
 		{
+			cout<<"220130318016";
+			cout<<"Vasu sapariya";
 			cout<<"Enter the Name::";
 			cin>>name;
 			cout<<"Enter the SPI::";
