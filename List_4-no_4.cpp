@@ -8,6 +8,8 @@ class number
 };
 void number :: setdata(int a,int b)
 {
+	cout<<"220130318016";
+	cout<<"Vasu sapariya";
 	cout<<"Enter the value of a ::";
 	cin>>a;
 	cout<<"Enter the value of b ::";
