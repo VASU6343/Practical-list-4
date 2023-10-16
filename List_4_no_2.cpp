@@ -8,8 +8,8 @@ class item
 	public:
 		static void getdata()
 		{ 
-      cout<<"220130318016";
-      cout<<"Vasu Sapariya";
+      		cout<<"220130318016";
+      		cout<<"Vasu Sapariya";
 			int a=0;
 			number=a;
 			count++;
